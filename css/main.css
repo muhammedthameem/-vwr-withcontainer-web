@@ -320,7 +320,7 @@ ul.pr-desc li {
 .pr-table-wrapper {
     border: #dcd8d8 solid 1px;
     border-radius: 5px;
-    padding: 12px 12px 0;
+    padding: 12px 12px 12px;
     margin: 10px 0 0 0;
 }
 
