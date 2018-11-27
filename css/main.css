@@ -440,6 +440,21 @@ td.child-td {
     display: -ms-inline-flexbox;
     display: inline-flex;
 }
+
+.gray-table{
+    background: #f1f1f1;
+    border-radius: 5px;
+}
+
+
+.pr-table-wrapper > table tr td .bo5{
+    max-width: 138px;
+    display: -webkit-inline-box;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+}
+
+
 .pr-table-wrapper td.child-td > table tr td .price{
     display: -webkit-inline-box;
     display: -ms-inline-flexbox;
@@ -467,6 +482,17 @@ td.child-td {
     font-size: 12px;
 }
 .pr-table-wrapper td.child-td > table tr td .size7 {
+    width: 30px;
+    height: 30px;
+}
+.pr-table-wrapper > table tr td  .size8 {
+    width: 40px;
+    height: 30px;
+    font-size: 12px;
+}
+
+
+.pr-table-wrapper > table tr td .size7 {
     width: 30px;
     height: 30px;
 }
